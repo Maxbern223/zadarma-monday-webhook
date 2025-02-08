@@ -1,8 +1,9 @@
 {
   "name": "zadarma-monday-webhook",
   "version": "1.0.0",
-  "description": "Webhook API на Railway",
+  "description": "Webhook API для Zadarma и Monday.com",
   "main": "server.js",
+  "type": "module",
   "scripts": {
     "start": "node server.js"
   },
