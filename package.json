@@ -1,7 +1,7 @@
 {
   "name": "zadarma-monday-webhook",
   "version": "1.0.0",
-  "description": "Простое API на Railway",
+  "description": "Webhook API на Railway",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
